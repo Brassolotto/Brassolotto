@@ -4,8 +4,8 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de Software na Celso Lisboa.
-<!-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}. -->
 - 🌱 Aprendendo mais sobre Python e Django.
+<!-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}. -->
 
 ## Minhas Skills
 
