@@ -51,6 +51,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-ricardo-brassolotto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-brassolotto/)](https://www.linkedin.com/in/ricardo-brassolotto/)
+[![Linkedin](https://img.shields.io/badge/-ricardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-brassolotto/)](https://www.linkedin.com/in/ricardo-brassolotto/)
 [![Gmail Badge](https://img.shields.io/badge/-ricardo.brassolotto@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardo.brassolotto@gmail.com)](mailto:ricardo.brassolotto@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/Brassolotto?label=follow&style=social)](https://github.com/Brassolotto)
