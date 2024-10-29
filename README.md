@@ -11,7 +11,7 @@
 
 **Aplicações e dados**
 
-[![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=C%2B%2B&logoColor=00599C)](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 <!--![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -51,6 +51,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/ricardo-brassolotto/)](https://www.linkedin.com/in/ricardo-brassolotto/)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-brassolotto/]https://www.linkedin.com/in/ricardo-brassolotto/
 <!---->[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)](https://www.linkedin.com/in/ricardo-brassolotto/)
 [![GitHub](https://img.shields.io/github/followers/Brassolotto?label=follow&style=social)](https://github.com/Brassolotto))
