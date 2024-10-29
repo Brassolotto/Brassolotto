@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de Software na Celso Lisboa.
-<!-- -->- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
+<!-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}. -->
 - 🌱 Aprendendo mais sobre Python e Django.
 
 ## Minhas Skills
@@ -51,6 +51,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-brassolotto/)](https://www.linkedin.com/in/ricardo-brassolotto/)
+[![Linkedin](https://img.shields.io/badge/-ricardo-brassolotto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-brassolotto/)](https://www.linkedin.com/in/ricardo-brassolotto/)
 [![Gmail Badge](https://img.shields.io/badge/-ricardo.brassolotto@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardo.brassolotto@gmail.com)](mailto:ricardo.brassolotto@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/)
+[![GitHub](https://img.shields.io/github/followers/Brassolotto?label=follow&style=social)](https://github.com/Brassolotto)
